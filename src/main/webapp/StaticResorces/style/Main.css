@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+.main-content {
+	text-align: center;
+	background-image: linear-gradient(#E5E4E2, #FFFFFF);
+	padding: 20px;
+}
+.main-content .error{
+	color: red;
+	line-height: 20px;
+}
+.main-content form  .container .row .text-right {
+	text-align: right;
+	margin: 10px 0;
+}
+.main-content form  .container .row .text-left {
+	text-align: left;
+	margin: 10px 0;
+}
+.main-content form p input {
+	width: 200px;
+}
